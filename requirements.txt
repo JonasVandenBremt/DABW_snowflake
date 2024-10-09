@@ -1,3 +1,4 @@
 # requirements.tt
 snowflake-snowpark-python
 streamlit
+requests
